@@ -16,4 +16,4 @@ including:
 - Inheritance
 - Constructors
 - Parameters
-// TODO markings included to highlight places, where important functions are being used
+- // TODO markings included to highlight places, where important functions are being used
